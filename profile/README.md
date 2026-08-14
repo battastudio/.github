@@ -12,7 +12,7 @@
 #### استوديو مستقل لصناعة الألعاب والبرامج · بطة ستوديو
 
 [![Website](https://img.shields.io/badge/Website-battastudio-1E5F65?style=for-the-badge&logo=itch.io&logoColor=white)](https://battastudio.github.io/Portfolio/)
-[![Instagram](https://img.shields.io/badge/Instagram-follow-E87A2C?style=for-the-badge&logo=instagram&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-follow-E87A2C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/batta__studio?igsh=MXFoNm5kanpmOWp3eQ%3D%3D&igsi=MXFoNm5kanpmOWp3eQ%3D%3D&utm_source=qr)
 [![X](https://img.shields.io/badge/X-follow-0F2A2E?style=for-the-badge&logo=x&logoColor=white)](#)
 [![Discord](https://img.shields.io/badge/Discord-join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
 
