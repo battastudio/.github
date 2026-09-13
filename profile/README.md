@@ -31,7 +31,6 @@ We're **Batta Studio** — an independent software studio building web & mobile 
 | **Research Scribe AI** | AI academic editor & scientific reviewer | [Code](https://github.com/battastudio/ResearchScribeAI) · [Demo](https://battastudio.github.io/ResearchScribeAI/) |
 | **Mobile DevTools** | Build, QA & secure Flutter apps | [Code](https://github.com/battastudio/Mobile-DevTools) · [Demo](https://battastudio.github.io/Mobile-DevTools/) |
 | **DualGame** | 50 peer-to-peer games over WebRTC | [Code](https://github.com/battastudio/DualGame) · [Demo](https://battastudio.github.io/DualGame/) |
-| **Nour Al-Quran** | Offline-first Quran app | [Code](https://github.com/battastudio/Nour-Al-Quran) · [Demo](https://battastudio.github.io/Nour-Al-Quran/) |
 
 ## 🧰 Our stack
 
