@@ -7,7 +7,7 @@
 
 <img src="https://raw.githubusercontent.com/battastudio/.github/main/profile/assets/github-banner.png" alt="Batta Studio" width="100%" />
 
-### An indie studio building games & software 🎮🦆
+### We build software, tools & games 🦆
 
 [![Website](https://img.shields.io/badge/Website-battastudio-2E505E?style=for-the-badge&logo=itch.io&logoColor=white)](https://battastudio.github.io/Portfolio/)
 [![Instagram](https://img.shields.io/badge/Instagram-follow-E87A2C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/batta__studio?igsh=MXFoNm5kanpmOWp3eQ%3D%3D&igsi=MXFoNm5kanpmOWp3eQ%3D%3D&utm_source=qr)
@@ -20,7 +20,7 @@
 
 ## 👋 Hello
 
-We're **Batta Studio** — we build small, smart, delightful games and software with an indie maker's spirit. Our mascot is a duck named **Batta**. We start small, polish the details, and ship experiences made to be loved.
+We're **Batta Studio** — an independent software studio building web & mobile apps, developer tools, and games. From our own open-source products to client apps shipped on the App Store and Google Play, we focus on craft, performance, and detail. Our mascot is a duck named **Batta**, and we ship work made to be used and loved.
 
 ## 🚀 Our open-source projects
 
